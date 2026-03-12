@@ -117,3 +117,4 @@ def esempio_env_override():
 
 if __name__ == "__main__":
     esempio_standalone()
+    # blocco_streamlit()
